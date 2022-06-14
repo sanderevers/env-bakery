@@ -1,12 +1,12 @@
 {
-  "name": "@elemental-concept/env-bakery",
+  "name": "@cumlaude-customized/env-bakery",
   "version": "0.0.5",
   "description": "Loads environment variables from .env file into Angular environment",
   "license": "BSD-2-Clause",
   "private": false,
   "peerDependencies": {
-    "@angular/common": ">= 9 < 13",
-    "@angular/core": ">= 9 < 13"
+    "@angular/common": ">= 9 < 14",
+    "@angular/core": ">= 9 < 14"
   },
   "dependencies": {
     "tslib": "^2.0.0"
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/elementalconcept/env-bakery.git"
+    "url": "git://github.com/sanderevers/env-bakery.git"
   },
   "keywords": [
     "dotenv",
